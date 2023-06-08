@@ -2328,6 +2328,7 @@ GET : http://localhost:8080/weather/currentWeather?cityName=ankara
   "success": true
 }
 ```
-  
-  
+## Swagger
+![Photo](https://user-images.githubusercontent.com/58556840/244499476-b5f4bf68-2789-4784-9b3d-1563e5adc48c.png)  
+![Photo](https://user-images.githubusercontent.com/58556840/244499481-fe8b1bb2-eac5-4d40-8523-ad8bfe7d8e06.png)  
 
