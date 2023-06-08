@@ -46,6 +46,15 @@ Back-End:
 * Swagger
 * OpenFeign 
 
+## Uygulama İçi Görseller
+
+![Photo](https://user-images.githubusercontent.com/58556840/244498162-5f632d61-edd1-45cb-8e77-a345bd5e3fe0.png)
+![Photo](https://user-images.githubusercontent.com/58556840/244498152-50addbe1-1a1c-4ee9-9deb-d1e878e33e5c.png)
+![Photo](https://user-images.githubusercontent.com/58556840/244498156-886377ad-8222-4244-bd09-d85047adb7e0.png)
+![Photo](https://user-images.githubusercontent.com/58556840/244498159-6a85e249-28f5-43a7-8502-a33fad007877.png)
+![Photo](https://user-images.githubusercontent.com/58556840/244498166-17cfcb25-ed6a-4715-bc7a-66ac89888457.png)
+![Photo](https://user-images.githubusercontent.com/58556840/244498148-cb002a7d-76ef-4cb5-b95d-ab3b2ac805aa.png)
+
 # API Tanımlamaları
 
 
