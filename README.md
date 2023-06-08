@@ -46,10 +46,10 @@ Back-End:
 * Swagger
 * OpenFeign 
 
-## API Tanımlamaları
+# API Tanımlamaları
 
 
-# User
+## User
 1. Post User
 
 ```text
@@ -377,7 +377,7 @@ DELETE : http://localhost:8080/api/1.0/users/1
 }
 ```
 
-# City
+## City
 
 1. Post City With User Id
   
@@ -717,7 +717,7 @@ DELETE : http://localhost:8080/api/1.0/cities/3
 }
 ```
   
-  # Weather
+  ## Weather
   
 1. Get All Weather Data
   
