@@ -29,7 +29,7 @@ Frontend projesinin çalışır olması.
 
 ## Kullanılan Teknolojiler
 
-Front-End : 
+Front-End: 
 * ReactJs
 * Redux
 * Axios
