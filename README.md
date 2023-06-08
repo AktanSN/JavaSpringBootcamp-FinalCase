@@ -45,6 +45,7 @@ Back-End:
 * Kafka
 * Swagger
 * OpenFeign 
+* H2 Database
 
 ## Uygulama İçi Görseller
 
