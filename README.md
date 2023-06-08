@@ -47,9 +47,7 @@ Back-End:
 * OpenFeign 
 
 ## API Tanımlamaları
-<details>
-  
-  <summary>API Tanımlamaları İçin Tıklayın</summary>
+
 
 # User
 1. Post User
@@ -2323,4 +2321,4 @@ GET : http://localhost:8080/weather/currentWeather?cityName=ankara
 ```
   
   
-  </details>
+
